@@ -132,20 +132,4 @@ def test_create_user():
 
 
 
-## Resources
-
-Following resources were used for motivation in designing this API.
-
-- [Fast API Official Website](https://fastapi.tiangolo.com/)
-- [Udemy Course - FastAPI](https://www.udemy.com/course/fastapi-the-complete-course/)
-
-## Authors
-
-* **Amit Prafulla (APFirebolt)** - [My Website](https://apgiiit.com)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
 
